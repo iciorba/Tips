@@ -11,5 +11,5 @@ Time spent: ~4h.
 
 
 Walkthrough of all user stories:
-https://s3.amazonaws.com/f.cl.ly/items/0y2Z2u1t1w2K0u2W0k2C/Tips%20walkthrough.gif
+http://s3.postimg.org/pjczairi9/Tips_walkthrough.gif
 
